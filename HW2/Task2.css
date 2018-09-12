@@ -1,0 +1,23 @@
+
+
+td{
+    border:1px solid black;
+    line-height: 25%;
+}
+.wrapper{
+    width:1100px;
+    margin:1px;
+    height:600px;;
+}
+.up{
+    background-color: brown;
+}
+.central{
+    background-color: aquamarine;
+}
+.middle{
+    background-color: blueviolet;
+}
+.down{
+    background-color:grey;
+}
